@@ -1,2 +1,2 @@
 # Web-dsgn-Repo
-Portable digital repository for my web design assignments.
+This is my personal digital repository for all of my web design assignments/projects.
